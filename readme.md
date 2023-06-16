@@ -24,6 +24,6 @@ SSH использует пару ключей для обеспечения б�
 
 ---------------------------------------
 
-В файле [manual.txt](https://github.com/SergeKAPITONOV/ASSISTANT_create_key/blob/main/manual.txt) 
+В файле [manual_create_key.txt](https://github.com/SergeKAPITONOV/REMINDER/blob/main/manual_create_key.txt) 
 находится инструкция по созданию ключей SSH.
 
